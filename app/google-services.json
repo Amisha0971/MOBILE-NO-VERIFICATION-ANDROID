@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "70093717749",
+    "project_id": "mobileno-verification-d6a94",
+    "storage_bucket": "mobileno-verification-d6a94.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70093717749:android:b7137af517a6fe882905bc",
+        "android_client_info": {
+          "package_name": "com.example.mobileno_verification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC45mL-_SixOmMThKo86Tkd67TwCPS93z4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
